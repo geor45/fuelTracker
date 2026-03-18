@@ -11,7 +11,7 @@ A native Android application designed to help users track their vehicle's fuel c
 ## 🛠 Tech Stack
 * **Language:** [Kotlin]
 * **IDE:** Android Studio
-* **Database:** SQLite / Room Persistence Room (για τοπική αποθήκευση)
+* **Database:** SQLite / Room Persistence Room
 * **Architecture:** MVVM (Model-View-ViewModel)
 * **UI Toolkit:** [XML Layouts / Jetpack Compose]
 
