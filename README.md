@@ -25,14 +25,14 @@ A native Android application designed to help users track their vehicle's fuel c
       <em>Main Screen</em>
     </td>
     <td align="center">
-      <img src="1773831467657.jpg" width="220" alt="Stats Screen">
-      <br>
-      <em>Stats screen</em>
-    </td>
-    <td align="center">
-      <img src="1773831467671.jpg" width="220" alt="Details Screen">
+      <img src="1773831467671.jpg" width="220" alt="Stats Screen">
       <br>
       <em>Fuel Up</em>
+    </td>
+    <td align="center">
+      <img src="1773831467657.jpg" width="220" alt="Details Screen">
+      <br>
+      <em>Stats screen</em>
     </td>
   </tr>
 </table>
