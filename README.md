@@ -25,6 +25,4 @@ A native Android application designed to help users track their vehicle's fuel c
 3. Build and run the app on an emulator or a physical device (API 24+).
 
 ## 📄 License
-This project is open-source and available under the MIT License.![1773831467687](https://github.com/user-attachments/assets/1e77913d-94b8-4371-bb55-de409e9ea8c8)
-![1773831467671](https://github.com/user-attachments/assets/ef577dce-f794-4855-9e44-a502ea035f31)
-![1773831467657](https://github.com/user-attachments/assets/8e73340f-403a-42e7-b28d-fff0eecf1a02)
+This project is open-source and available under the MIT License.!
