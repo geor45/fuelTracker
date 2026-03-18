@@ -16,10 +16,10 @@ A native Android application designed to help users track their vehicle's fuel c
 * **UI Toolkit:** [XML Layouts / Jetpack Compose]
 
 ## 📸 Screenshots
-<img src="screenshot1.png" width="250">
-![Main Screen](1773831467687.jpg)
-![Stats Screen](1773831467657.jpg)
-![Fuel Up](1773831467671.jpg)
+<img src="1773831467687.jpg" width="250"> alt="Main Screen">
+<img src="1773831467657.jpg" width="250"> alt="Stats Screen">
+<img src="1773831467671.jpg" width="250"> alt="Fuel Up">
+
 
 ## 🚀 How to Run
 1. Clone the repository: 
